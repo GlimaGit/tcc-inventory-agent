@@ -50,4 +50,5 @@ tcc-inventory-agent/
 ## ✍️ Autor
 
 **Gabriel Lima Soares**
+
 MBA em Data Science & Analytics – 2025
